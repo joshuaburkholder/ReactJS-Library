@@ -22,9 +22,3 @@ class SearchBar extends Component {
 }
 
 export default SearchBar;
-
-
-// Remember to import component into index file:
-// 	import SearchBar from './components/search_bar'
-// To call an instance:
-// 	<SearchBar />
